@@ -80,7 +80,7 @@ This is a Python-based GUI application for a food ordering system, inspired by t
 
    ```
 
-# Images:
+# Output
 ![Screenshot (15)](https://github.com/Asraf2004/python-tkinter---project/assets/80347711/011361d5-5a43-44e3-a948-5e874018e185)
 ![Screenshot (16)](https://github.com/Asraf2004/python-tkinter---project/assets/80347711/df77566d-525f-48fd-9ce2-f9435b105335)
 ![Screenshot (17)](https://github.com/Asraf2004/python-tkinter---project/assets/80347711/0550fae4-d87e-4477-943a-3c9c971c7e08)
